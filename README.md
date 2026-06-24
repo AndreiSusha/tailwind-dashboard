@@ -1,6 +1,7 @@
 # Tailwind Dashboard
 
 A responsive analytics dashboard for a B2B SaaS-style admin panel, built with React and Tailwind CSS. It brings together KPI cards, interactive charts, data tables, and animated page transitions across a multi-page layout — a frontend portfolio piece focused on data visualisation and clean component architecture.
+![Tailwind Dashboard](docs/screenshot.png)
 
 ## Features
 
@@ -14,15 +15,15 @@ A responsive analytics dashboard for a B2B SaaS-style admin panel, built with Re
 
 ## Tech stack
 
-| Layer        | Choice                              |
-| ------------ | ----------------------------------- |
-| Framework    | React 18                            |
-| Build tool   | Vite                                |
-| Styling      | Tailwind CSS                        |
-| Charts       | Recharts                            |
-| Animation    | Framer Motion                       |
-| Routing      | React Router                        |
-| Icons        | Lucide React, React Icons           |
+| Layer      | Choice                    |
+| ---------- | ------------------------- |
+| Framework  | React 18                  |
+| Build tool | Vite                      |
+| Styling    | Tailwind CSS              |
+| Charts     | Recharts                  |
+| Animation  | Framer Motion             |
+| Routing    | React Router              |
+| Icons      | Lucide React, React Icons |
 
 ## Getting started
 

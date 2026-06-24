@@ -43,7 +43,7 @@ const HomePage = () => {
             comparisonColor="#0ea5e9"
           />
           <ChartStats
-            name="Customer Conversationss"
+            name="Customer Conversions"
             icon={HiOutlineChatAlt2}
             value="347"
             color="#EC4899"
@@ -51,7 +51,7 @@ const HomePage = () => {
             comparisonColor="#ef4444"
           />
           <ChartStats
-            name="Churm Rate"
+            name="Churn Rate"
             icon={HiOutlineUserRemove}
             value="2%"
             color="#10B981"
